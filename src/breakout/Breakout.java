@@ -5,7 +5,7 @@ import utils.Commons;
 import utils.GameController;
 
 public class Breakout extends JFrame {
-	//fsgtr
+	
 	private static final long serialVersionUID = 1L;
 
 	public Breakout(GameController network, int i) {
